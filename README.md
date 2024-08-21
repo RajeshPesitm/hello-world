@@ -4,4 +4,3 @@
 #lemon
 #kewi
 #coca
-#watermelon
